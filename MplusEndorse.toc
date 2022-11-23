@@ -1,0 +1,12 @@
+## Interface: 100002
+## Title: M+ Endorse
+## Notes: Keep track of chads and scabs
+## Author: Adaxion
+## Version: 0.1
+
+## SavedVariables: MplusEndorseDB
+
+embeds.xml
+
+UI.lua
+Main.lua
