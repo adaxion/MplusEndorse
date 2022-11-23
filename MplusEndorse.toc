@@ -1,12 +1,18 @@
 ## Interface: 100002
 ## Title: M+ Endorse
-## Notes: Keep track of chads and scabs
+## Notes: Keep track of your M+ runs, party members you ran with, and score each player's involement in the run.
 ## Author: Adaxion
 ## Version: 0.1
 
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
 ## SavedVariables: MplusEndorseDB
+
+## X-Website: https://adaxion.github.io/MplusEndorse
 
 embeds.xml
 
-UI.lua
-Main.lua
+src/Globals.lua
+src/UI.lua
+src/Main.lua
